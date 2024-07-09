@@ -1,0 +1,2 @@
+# GARCH
+Automated GARCH Model
